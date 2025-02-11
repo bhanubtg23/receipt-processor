@@ -1,4 +1,8 @@
 **Receipt Processor Application Setup Guide**
+
+**Approach**
+From the usecase, preserving the receipt details seemed not mandatory but the data was saved for future developement, showing usage of in memory cache and also debugging any errors in the receipt in future
+
 **Getting Started**
 
 Clone the repository:
